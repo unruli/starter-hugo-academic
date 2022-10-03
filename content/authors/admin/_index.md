@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: OKOCHA CHIBUZOR JOSEPH
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: CHIBUZOR
+last_name: OKOCHA
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,17 +14,17 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: University OF Benin
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AI, AI Ethics and policy.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence and Ethics
+  - Human computer Interaction
+  - Computer science Education/ STEM Education 
 
 # Education to show in About widget
 education:
