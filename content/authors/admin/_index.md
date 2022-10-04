@@ -10,7 +10,7 @@ last_name: OKOCHA
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -30,7 +30,7 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: 
+      institution: Incoming
       year: 2023
    
     - course: BSc in Artificial Intelligence
@@ -75,8 +75,8 @@ email: ''
 highlight_name: true
 ---
 
-Okocha Chibuzor is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Okocha Chibuzor is a researcher of artificial intelligence and Human computer Interaction. His research interests include AI ethics and Fairness, Human computer Interaction and Computer science Education. He leads the Robotic group at the visiola foundation, which teach robotics to Teenage girls in secondary schools across Nigeria.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is also an AI researcher in the area of Ethics and Fair policy for developing AI applications, he is an active member of the Global Black in AI community.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
