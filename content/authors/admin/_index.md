@@ -47,19 +47,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/big_Chibuzor
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Chibuzor-Okocha
   - icon: github
     icon_pack: fab
-    link: [https://github.com/gcushen](https://github.com/unruli)
+    link: https://github.com/unruli
   - icon: linkedin
     icon_pack: fab
-    link: [https://www.linkedin.com/](https://www.linkedin.com/in/chibuzor-okocha/)
+    link: https://www.linkedin.com/in/chibuzor-okocha/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
