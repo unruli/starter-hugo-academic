@@ -33,8 +33,8 @@ education:
       institution: Incoming
       year: 2023
    
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Computer Engineering
+      institution: University of Benin
       year: 2020
 
 # Social/Academic Networking
