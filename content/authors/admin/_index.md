@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:your-okochachibu242@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/big_Chibuzor
@@ -77,6 +77,6 @@ highlight_name: true
 
 Okocha Chibuzor is a researcher of artificial intelligence and Human computer Interaction. His research interests include AI ethics and Fairness, Human computer Interaction and Computer science Education. He leads the Robotic group at the visiola foundation, which teach robotics to Teenage girls in secondary schools across Nigeria.
 
-He is also an AI researcher in the area of Ethics and Fair policy for developing AI applications, he is an active member of the Global Black in AI community.
+He is also an AI researcher in the area of Ethics and Fair policy for developing AI applications, he is an active member of the Global Black in AI community. He is an Avid reader of everything fiction and Non fiction and Research papers lol.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
