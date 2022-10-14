@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description:80%
     icon: python
     icon_pack: fab
     name: Python
-  - description: 100%
+  - description: 70%
     icon: chart-line
     icon_pack: fas
     name: AI
