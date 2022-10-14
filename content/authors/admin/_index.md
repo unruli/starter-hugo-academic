@@ -29,8 +29,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Incoming
+    - course: PhD in Human Centered Computing and AI
+      institution: University of Florida
       year: 2023
    
     - course: BSc in Computer Engineering
