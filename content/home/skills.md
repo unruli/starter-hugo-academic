@@ -28,7 +28,7 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
-    - description: 50%
+  - description: 50%
     icon: camera-retro
     icon_pack: fas
     name: Videography
