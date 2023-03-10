@@ -23,7 +23,8 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.linkedin.com/in/chibuzor-okocha/overlay/1635473741093/single-media-viewer/?profileId=ACoAADVauhwBtq2JtbfLmJchw68pZvdBJUajk_A
+  - certificate_url: https://www.linkedin.com/in/chibuzor-okocha/overlay/1635473741093/single-media-viewer/?    
+    profileId=ACoAADVauhwBtq2JtbfLmJchw68pZvdBJUajk_A
     date_end: ''
     date_start: '2021-01-25'
     description: 'AWS Machine Learning 
