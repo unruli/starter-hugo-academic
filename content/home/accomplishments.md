@@ -23,13 +23,20 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.linkedin.com/in/chibuzor-okocha/overlay/1635473741093/single-media-viewer/?profileId=ACoAADVauhwBtq2JtbfLmJchw68pZvdBJUajk_A
     date_end: ''
     date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    description: 'AWS Machine Learning 
+    -introduction to machine learning
+    -machine learning with AWS
+    -computer vision and its application, computer vision with deep lens
+    -Reinforcement learning and its application, reinforcement with AWS Deepracer
+    -introduction to generative AI and its application, generative AI with Deepcomposer
+    -Create Music with AWS DeepComposer
+    '
+    organization: UDACITY
+    organization_url: https://www.UDACITY.org
+    title: Machine Learning and Deep Learning
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
