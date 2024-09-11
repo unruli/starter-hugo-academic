@@ -18,18 +18,18 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI, AI Ethics and policy.
+bio: My research interests include AI, Computer science Education/ Engineering Education , Global Engineering Education
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence and Ethics
-  - Human computer Interaction
-  - Computer science Education/ STEM Education 
+  - machine Translation in Education
+  - Computer science Education/ Engineering Education 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Human Centered Computing and AI
+    - course: PhD in Engineering Education
       institution: University of Florida
       year: 2023
    
